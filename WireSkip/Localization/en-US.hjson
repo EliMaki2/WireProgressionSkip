@@ -1,0 +1,112 @@
+Mods: {
+	WireSkip: {
+		NPCs: {
+			WireThief: {
+				DisplayName: Wire Thief
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+			}
+		}
+
+		Items: {
+			EnemySensorItem: {
+				DisplayName: Enemy Sensor Item
+				Tooltip: ""
+			}
+
+			EnemySensor: {
+				DisplayName: Enemy Sensor
+				Tooltip: ""
+			}
+
+			StoneDartTrap: {
+				DisplayName: Stone Dart Trap
+				Tooltip: Shoots darts when activated by wires
+			}
+
+			StoneSpearTrap: {
+				DisplayName: Stone Spear Trap
+				Tooltip: Shoots spears when activated by wires
+			}
+
+			StoneFlameTrap: {
+				DisplayName: Stone Flame Trap
+				Tooltip: Shoots flames when activated by wires
+			}
+
+			StoneSpikeBallTrap: {
+				DisplayName: Stone Spike Ball
+				Tooltip: Shoots spike balls when activated by wires
+			}
+
+			LunarDartTrap: {
+				DisplayName: Lunar Dart Trap
+				Tooltip: Shoots darts with incredible power when activated by wires
+			}
+
+			LunarSpearTrap: {
+				DisplayName: Lunar Spear Trap
+				Tooltip: Shoots spears with incredible power when activated by wires
+			}
+
+			LunarFlameTrap: {
+				DisplayName: Lunar Flame Trap
+				Tooltip: Shoots flames with incredible power when activated by wires
+			}
+
+			LunarSpikeBallTrap: {
+				DisplayName: Lunar Spike Ball
+				Tooltip: Shoots spike balls with incredible power when activated by wires
+			}
+
+			LunarDartTrapItem: {
+				DisplayName: Lunar Dart Trap Item
+				Tooltip: ""
+			}
+
+			LunarFlameTrapItem: {
+				DisplayName: Lunar Flame Trap Item
+				Tooltip: ""
+			}
+
+			LunarSpearTrapItem: {
+				DisplayName: Lunar Spear Trap Item
+				Tooltip: ""
+			}
+
+			LunarSpikeBallTrapItem: {
+				DisplayName: Lunar Spike Ball Trap Item
+				Tooltip: ""
+			}
+
+			StoneDartTrapItem: {
+				DisplayName: Stone Dart Trap Item
+				Tooltip: ""
+			}
+
+			StoneFlameTrapItem: {
+				DisplayName: Stone Flame Trap Item
+				Tooltip: ""
+			}
+
+			StoneSpearTrapItem: {
+				DisplayName: Stone Spear Trap Item
+				Tooltip: ""
+			}
+
+			StoneSpikeBallTrapItem: {
+				DisplayName: Stone Spike Ball Trap Item
+				Tooltip: ""
+			}
+		}
+	}
+}

@@ -1,0 +1,32 @@
+using Terraria;
+using Terraria.ModLoader;
+
+namespace WireSkip.Items
+{
+    public class StoneSpearTrap : ModItem
+    {
+        public override void SetStaticDefaults()
+        {
+            DisplayName.SetDefault("Stone Spear Trap");
+            Tooltip.SetDefault("Shoots a spear when powered by wire.");
+        }
+
+        public override void SetDefaults()
+        {
+            Item.width = 16;
+            Item.height = 16;
+            Item.maxStack = 99;
+            Item.useTurn = true;
+            Item.autoReuse = true;
+            Item.useAnimation = 15;
+            Item.useTime = 10;
+            Item.useStyle = ItemUseStyleID.Swing;
+            Item.consumable = true;
+            Item.value = Item.buyPrice(silver: 25);
+            Item.rare = 1;
+            Item.createTile = ModContent.TileType<Tiles.StoneSpearTrap>();
+        }
+
+        public override void AddRecipes() { /* empty to prevent crafting */ }
+    }
+}

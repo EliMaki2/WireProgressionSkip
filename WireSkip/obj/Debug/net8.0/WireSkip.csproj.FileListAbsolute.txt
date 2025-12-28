@@ -1,0 +1,12 @@
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\WireSkip.csproj.AssemblyReference.cache
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\WireSkip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\WireSkip.AssemblyInfoInputs.cache
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\WireSkip.AssemblyInfo.cs
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\WireSkip.csproj.CoreCompileInputs.cache
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\bin\Debug\net8.0\WireSkip.deps.json
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\bin\Debug\net8.0\WireSkip.dll
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\bin\Debug\net8.0\WireSkip.pdb
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\WireSkip.dll
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\refint\WireSkip.dll
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\WireSkip.pdb
+C:\Users\elido\Documents\My Games\Terraria\tModLoader\ModSources\WireSkip\obj\Debug\net8.0\ref\WireSkip.dll

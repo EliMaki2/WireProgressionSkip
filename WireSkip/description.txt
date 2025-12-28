@@ -1,0 +1,1 @@
+Adds the Wire Thief, a shady wiring vendor who moves in when players handle traps or wire parts.
